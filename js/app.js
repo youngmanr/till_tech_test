@@ -1,0 +1,1 @@
+var tillTechTest = angular.module('TillTechTest, ['ngResource']);
