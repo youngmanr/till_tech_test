@@ -1,1 +1,1 @@
-var tillTechTest = angular.module('TillTechTest, ['ngResource']);
+var tillTechTest = angular.module('TillTechTest', ['ngResource']);
